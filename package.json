@@ -1,0 +1,32 @@
+{
+  "name": "cardtonio",
+  "version": "1.0.0",
+  "description": "Business Card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioMaita/npxcard.git"
+  },
+  "keywords": [
+    "card",
+    "node",
+    "business",
+    "npx"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioMaita/npxcard/issues"
+  },
+  "homepage": "https://github.com/AntonioMaita/npxcard#readme",
+  "bin": {
+    "tonio": "./index.js"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
+  }
+}
