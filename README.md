@@ -3,4 +3,4 @@ business Card
  
 ## Installation 
 
-In the terminal type : npx cardtonio
+In the terminal, type : npx cardtonio
