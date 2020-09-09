@@ -1,6 +1,6 @@
 # npxcard
 business Card
-
-##Installation 
+ 
+## Installation 
 
 In the terminal type : npx cardtonio
